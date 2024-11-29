@@ -8,8 +8,3 @@ data class Celular(
     val marcaId: Int,
     val marcaNombre: String
 )
-
-data class Marca(
-    val id: Int,
-    val nombre: String,
-)
